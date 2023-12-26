@@ -8,7 +8,7 @@ Hello, I am Jiaqi (Ella) Li. I am currently a Master's student at the <a href="h
 
 In addition to being an HCI researcher in academia, I also work in data science and UX research.
 
-In my free time, I'm deeply passionate about participating in a variety of volunteering and community activities (e.g., <a href="https://midas.umich.edu/student-community/" target="_blank">MIDAS Student Leadership Board Member</a>, General Committee of STEM Women Club, <a href="https://www.uschinahealthsummit.org/" target="_blank">Volunteer of U.S.-China Health Summit</a>, <a href="https://kidscan.org.uk/" target="_blank">Volunteer of Kidscan Children's Cancer Research</a>) to help advance social justice, I also enjoy enriching my life with activities like kickboxing, karaoke, music festivals, and beatboxing!
+In my free time, I'm deeply passionate about participating in a variety of volunteering and community activities (e.g., <a href="https://esc.umich.edu/graduate-researchers/" target="_blank">Center for Ethics, Society, and Computing (ESC)</a> Affiliated Researcher, <a href="https://midas.umich.edu/student-community/" target="_blank">MIDAS Student Leadership Board Member</a>, General Committee of STEM Women Club, <a href="https://www.uschinahealthsummit.org/" target="_blank">Volunteer of U.S.-China Health Summit</a>, <a href="https://kidscan.org.uk/" target="_blank">Volunteer of Kidscan Children's Cancer Research</a>) to help advance social justice, I also enjoy enriching my life with activities like kickboxing, karaoke, music festivals, and beatboxing!
 
 <br>
 
