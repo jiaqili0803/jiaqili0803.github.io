@@ -14,7 +14,7 @@
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title" style="color: #57068c;">Online Community Study r/AskWomen</div>
+  <div class="title" style="color: #622ca8;">Online Community Study r/AskWomen</div>
   <div class="author">Exploring the unique challenges and opportunities presented by this digital space, with a focus on how people support other members, the topics of discussion, and community engagement; Conducted <span style="color: #D49B00;">observations</span> over the span of two weeks and analyzed findings using <span style="color: #D49B00;">affinity mapping</span>.</div>
   <div class="periodical"><em>[Online Community Study]</em></div>
   <div class="links">
@@ -37,7 +37,7 @@
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-<div class="title" style="color: #57068c;">My Polycystic Ovarian Syndrome (PCOS) Journey</div>
+<div class="title" style="color: #622ca8;">My Polycystic Ovarian Syndrome (PCOS) Journey</div>
 <div class="author"><span style="color: #D49B00;">Interview, User Personas & Scenarios, Wireframes, Hi-fi Figma Prototype, Competitive Analysis</span>. Designed a supportive app for individuals with PCOS, providing group connections, anonymous posting, direct access to medical experts, and personalized, credible resources such as articles and videos. This app emphasizes menstrual and mental health, fostering a community-oriented and informative environment. Improved design for information sharing and organization, with embedded trackers, effective moderation, and content control, aimed at building community trust and ensuring privacy.</div>
 <div class="periodical"><em>[UX Research and Design]</em></div>
 <!--   <div style="display: inline-block; background-color: #D49B00; color: #BFBFBF; padding: 3px 8px; margin-right: 5px; border-radius: 5px; font-size: 0.8em;">figma</div> -->
@@ -62,7 +62,7 @@
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-<div class="title" style="color: #57068c;">"Me+You" App: Dedicated to Physical and Mental Well-Being</div>
+<div class="title" style="color: #622ca8;">"Me+You" App: Dedicated to Physical and Mental Well-Being</div>
 <div class="author"><span style="color: #D49B00;">Interview, User Personas & Scenarios, Sketches,  Paper Prototype, User Test, Wireframes, Hi-fi Figma Prototype, Competitive Analysis</span>. Designed a self-help app to enhance daily communication and social connection, support exercise routines, and strengthen community bonds. Highlighted features include teaming up, progress tracking, a gamified process with rewards, music, and meditation, among others</div>
 <div class="periodical"><em>[UX Design]</em></div>
 <div class="links">
@@ -87,7 +87,7 @@
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-<div class="title" style="color: #57068c;">How People Express Opinions About LGBTQ+ Topics on Twitter</div>
+<div class="title" style="color: #622ca8;">How People Express Opinions About LGBTQ+ Topics on Twitter</div>
 <div class="author">Executed comprehensive data analysis, including pre-processing, exploratory data analysis (EDA) (correlation, sentence length and word count, posting time, etc), <span style="color: #D49B00;">sentiment analysis</span>, and key theme extraction using <span style="color: #D49B00;">Latent Dirichlet Allocation (LDA)</span>.</div>
 <div class="periodical"><em>[Data Mining]</em></div>
 <div class="links">
@@ -110,7 +110,7 @@
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-<div class="title" style="color: #57068c;">Heart Disease Prediction</div>
+<div class="title" style="color: #622ca8;">Heart Disease Prediction</div>
 <div class="author">Leveraged 2021 CDC’s BRFSS Survey Data to forecast heart disease by utilizing and fine-tuning various machine learning and deep learning models, incorporating techniques such as exploratory data analysis (EDA), correlation analysis, data visualization, encoding and scaling.</div>
 <div class="periodical"><em>[Machine Learning]</em></div>
 <div class="links">
@@ -135,7 +135,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title" style="color: #57068c;">Customized Keyboard Design: Enhancing Typing Speed and User Experience</div>
+  <div class="title" style="color: #622ca8;">Customized Keyboard Design: Enhancing Typing Speed and User Experience</div>
   <div class="author">Studied the existing issues with tablet virtual keyboards, re-designed a customized virtual keyboard tailored (adjustable keyboard size, key spacing, and key positioning) to user preferences in various contexts, and achieved an improvement in user typing speed. Executed an initial <span style="color: #D49B00;">survey (n=61), contextual inquiry, low and high fidelity interactive system prototyping, heuristic evaluation, and user testing (n=16)</span>, culminating in a detailed technical HCI project paper.</div>
   <div class="periodical"><em>[Technical HCI]</em></div>
   <div class="links">
