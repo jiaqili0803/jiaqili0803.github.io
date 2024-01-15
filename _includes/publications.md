@@ -14,6 +14,7 @@
 
 <ul style="margin:0 0 20px;">
     <li>Paramveer Dhillon, Somayeh Molaei, <u>Jiaqi Li</u>, Maximilian Golub, and Lionel Robert. 2024. Human-AI Collaborative Writing [title modified to ensure anonymous review]. Submitted to <a href="https://chi2024.acm.org/" target="_blank">CHI 2024 (Under R&R Process)</a></li>
+    <a href="https://drive.google.com/file/d/1-fFaBoePR52QjOGgVZcGW2Yb5GtskTd1/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px; border-radius: 5px; color: #A85895;">[PDF of the parts I contributed to]</a> 
 </ul>
 
 
@@ -32,6 +33,8 @@
 
 <ul style="margin:0 0 20px;">
     <li><u>Jiaqi Li</u>, Jeff Sheng, and Cliff Lampe. 2024. online and offline lives of Chinese Queer People and their community challenges. Aim to submit in early 2024.</li>
+    <a href="https://drive.google.com/file/d/1KXBx3merqYVeTN5vGQtvO8Fnl11La_sq/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px; border-radius: 5px; color: #A85895;">[First Draft of The Thesis]</a> 
+
 </ul>
 
 <br>
