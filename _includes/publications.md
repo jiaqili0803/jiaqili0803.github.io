@@ -10,7 +10,7 @@
 
 <ul style="margin:0 0 20px;">
     <li>Paramveer Dhillon, Somayeh Molaei, <u>Jiaqi Li</u>, Maximilian Golub, and Lionel Robert. 2024. Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models. Submitted to <a href="https://chi2024.acm.org/" target="_blank">CHI 2024 (Accepted)</a></li>
-    <a href="https://drive.google.com/file/d/1-fFaBoePR52QjOGgVZcGW2Yb5GtskTd1/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px; border-radius: 5px; color: #A85895;">[PDF of the parts I contributed to]</a> 
+ 
 </ul>
 
 <ul style="margin:0 0 20px;">
