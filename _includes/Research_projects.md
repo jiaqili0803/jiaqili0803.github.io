@@ -133,7 +133,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title" style="color: #9e59c9;">Reparative Description in Data Curation</div>
   <div class="author">Advisors: Dr. Ricky Punzalan, Dr. Jesse Johnston</div>
-  <div class="descripts">As part of the <a href="https://www.reconnect-recollect.com/who-we-are/" target="_blank">ReConnect/ReCollect Project</a>, I did harmful language auditing, analysis and <span style="color: #D49B00;">automated tool development</span> on social science databases and Philippine collections at the University of Michigan. The findings underscored the importance of implementing reparative approaches and the need for updated metadata to ensure cultural sensitivity.</div>
+  <div class="descripts">As part of the <a href="https://www.reconnect-recollect.com/" target="_blank">ReConnect/ReCollect Project</a>, I did harmful language auditing, analysis and <span style="color: #D49B00;">automated tool development</span> on social science databases and Philippine collections at the University of Michigan. The findings underscored the importance of implementing reparative approaches and the need for updated metadata to ensure cultural sensitivity.</div>
   <div class="periodical"><em>Proposal Accepted by Code4Lib</em></div>
   <div class="links">
       <a href="https://drive.google.com/file/d/1JJJwfQRMjSDMcCwRmhagS2Ow4YhbaSH8/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px; border-radius: 5px;">Final Report</a>
