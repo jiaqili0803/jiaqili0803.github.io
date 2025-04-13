@@ -16,7 +16,7 @@ In my free time, I'm deeply passionate about participating in a variety of volun
 
 My research interests focus on **understanding how equitable and inclusive technology should be designed for marginalized populations, with the goal of promoting their health equity and wellbeing, especially those who are often overlooked in technology design due to their intersectional identities** (e.g., race, gender, sexual orientation, citizenship, ability). My research interests extend beyond health technologies to encompass social, cultural, environmental, and ethical factors that affect people's well-being. This involves both studying and designing comprehensive sociotechnical systems (e.g., social media and data/technical infrastructures) to better support marginalized individuals' needs.
 
-As a bisexual, queer, Asian, and international woman, I am personally and professionally aware of systemic inequalities that deepen the marginalization of vulnerable groups. I aim to support the needs and well-being of marginalized people by leveraging the lessons learned living my intersectional identity in academia.
+As a Queer, Asian, and international woman, I am personally and professionally aware of systemic inequalities that deepen the marginalization of vulnerable groups. I aim to support the needs and well-being of marginalized people by leveraging the lessons learned living my intersectional identity in academia.
 
 <br>
 
